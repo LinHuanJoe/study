@@ -6,7 +6,7 @@ import java.util.List;
  * @program:
  * @Date: 2019/8/5 0005 10:44
  * @Author: lin huan
- * @Description: LeetCode双指针
+ * @Description: LeetCode题解双指针
  */
 public class DoublePointer {
 
